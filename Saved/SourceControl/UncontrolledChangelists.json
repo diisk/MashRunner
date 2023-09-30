@@ -1,0 +1,49 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Documentos/Unreal Projects/MashRunner/Content/Maps/MAP_Debug.umap",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/PaperAssets/Goal/T_Goal_Connected.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/PaperAssets/Background/T_Field.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/PaperAssets/Goal/T_Goal_Ripped.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_9.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_8.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_7.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_6.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_5.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_4.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_3.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_2.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_1.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_0.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/PaperAssets/Runner/FB_runner_Run.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/PaperAssets/Runner/FB_Runner_Idle.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/Blueprints/BP_Runner.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/PaperAssets/Background/T_Field_Sprite.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/PaperAssets/Goal/T_Goal_Connected_Sprite.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/PaperAssets/Goal/T_Goal_Ripped_Sprite.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/Input/Actions/AI_PowerLeft.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/Input/Actions/IA_PowerLeft.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/Input/Actions/IA_PowerRight.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/Input/IMC_Runner.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/Blueprints/GM_Runner.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/Blueprints/Enums/E_Input.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/Curves/C_SpeedIncreaseRamp.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/Curves/E_SpeedDecreaseRamp.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/Curves/C_SpeedDecreaseRamp.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/Sounds/Footsteps/Cue_Footstep.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/Sounds/Footsteps/S_Step_1.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/Sounds/Footsteps/S_Step_2.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/Maps/MAP_Field.umap",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/Blueprints/BP_Field.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/Blueprints/AI/AIC_Runner.uasset",
+				"D:/Documentos/Unreal Projects/MashRunner/Content/Blueprints/BP_Goal.uasset"
+			]
+		}
+	]
+}
